@@ -1,6 +1,5 @@
-# Inventario de Habilidades
+# Etapa 2
 
-**Fecha y Hora Actual (UTC):** 2026-02-20 19:43:39  
-**Login del Usuario Actual:** lucasbelisario-dev  
-
-Este archivo contiene un inventario de las habilidades del usuario, recopilando diversas competencias y áreas de conocimiento.
+1) Secretarias de educação dos municípios, escolas particulares e públicas;
+2) Sim, você mesmo tem uma metodologia que já vendeu na sua cidade mas quer expandir, e existem outros players com soluções educacionais;
+3) Educação escolar e empreendedorismo
